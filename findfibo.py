@@ -1,3 +1,8 @@
+# Find out, Fibonacci!" is an engaging Python game that invites users to explore the fascinating world of the Fibonacci sequence. This interactive program offers two exciting options:
+
+# Check a Number: Users can input a number, and the program will swiftly determine whether it belongs to the illustrious Fibonacci sequence. A clear verdict is provided, offering insights into the numerical wonders of this sequence.
+
+# Explore the Sequence: For those curious about the Fibonacci sequence itself, the game allows users to specify the number of terms they wish to unveil. With each term's revelation, the mesmerizing sequence unfolds, showcasing the intrinsic beauty of Fibonacci's mathematical creation.
 def is_perfect_square(n):
     sqrt_n = int(n ** 0.5)
     return sqrt_n * sqrt_n == n
