@@ -1,5 +1,6 @@
 import json
 from termcolor import colored
+#pip install termcolor (Important)
 
 class TodoApp:
     def __init__(self):
